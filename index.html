@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#263f51"><meta name="description" content="Православный календарь и молитвослов на 2027–2028 годы. Работает офлайн после первого открытия.">
+<link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="assets/icons/cross.svg"><link rel="stylesheet" href="styles.css">
+<title>Православный календарь</title>
+</head>
+<body>
+<header class="topbar"><button class="iconbtn" id="menuBtn" aria-label="Открыть меню">☰</button><div class="brand">Православный календарь</div><button class="iconbtn" id="todayBtn">Сегодня</button></header>
+<div class="app">
+<aside class="sidebar" id="sidebar"><div class="side-title">Разделы</div><button class="nav active" data-view="calendar">☦ Календарь</button><button class="nav" data-view="library">▤ Молитвослов</button><button class="nav" data-view="saints">✧ Святые</button><button class="nav" data-view="scripture">▧ Священное Писание</button><button class="nav" data-view="favorites">♡ Избранное</button><div class="side-note">Материалы хранятся на устройстве. Для обновления базы подключитесь к интернету.</div></aside>
+<main>
+<section id="calendarView" class="view">
+<div class="calendar-head"><div class="style-label">Церковный календарь · Русская православная традиция</div><div class="date-line"><button id="prevDay" class="round">‹</button><div><div id="weekday" class="weekday">Суббота</div><div id="dateTitle" class="date-title">1 января 2027</div><div id="oldDate" class="old-date"></div></div><button id="nextDay" class="round">›</button></div><div class="meta-line"><span id="weekInfo">Седмица</span><span id="voiceInfo">Глас</span><span id="fastInfo">Пост</span></div></div>
+<div class="date-controls"><input id="datePicker" type="date" min="2027-01-01" max="2028-12-31"><select id="yearSelect"><option>2027</option><option>2028</option></select><button id="monthGridBtn" class="softbtn">Выбрать месяц</button><button id="syncCalendarBtn" class="softbtn">Загрузить полный месяцеслов</button></div>
+<div id="monthGrid" class="month-grid hidden"></div><p id="syncStatus" class="notice" style="padding:0 22px"></p>
+<div class="day-content"><div class="section-heading">Праздники и памятные события</div><div id="feasts" class="event-list"></div><div class="section-heading">Святые дня</div><div id="saintsOfDay" class="saint-list"></div><p id="calendarNotice" class="notice"></p>
+<div class="folds"><details><summary>Тропари и кондаки дня</summary><div id="dayHymns" class="fold-content"></div></details><details><summary>Молитвословия дня</summary><div class="fold-content">Откройте раздел «Молитвослов», чтобы выбрать молитву или последование.</div></details><details><summary>Евангельские чтения</summary><div id="readings" class="fold-content"></div></details><details><summary>Мысли святых отцов</summary><div class="fold-content">Раздел для личных заметок и цитат. Добавляйте проверенные тексты в библиотеку проекта.</div></details><details><summary>Изречения Оптинских старцев</summary><div class="fold-content">Подборка доступна в разделе «Молитвослов» → «Духовное чтение».</div></details></div>
+</div></section>
+<section id="libraryView" class="view hidden"><div class="page-title">Православная библиотека</div><p class="lead">Выберите подборку. Тексты из примера можно заменить или дополнить собственными проверенными файлами.</p><input id="librarySearch" class="search" placeholder="Поиск по названию…"><div id="libraryList" class="library-list"></div></section>
+<section id="saintsView" class="view hidden"><div class="page-title">Святые</div><p class="lead">Нажмите на имя, чтобы открыть карточку и молитвенное обращение.</p><input id="saintSearch" class="search" placeholder="Найти святого…"><div id="saintDirectory" class="library-list"></div></section>
+<section id="scriptureView" class="view hidden"><div class="page-title">Священное Писание</div><div class="tabs"><button class="tab active" data-scripture="new">Новый Завет</button><button class="tab" data-scripture="old">Ветхий Завет</button></div><div id="scriptureList" class="library-list"></div><p class="notice">В каталоге перечислены книги православного канона, но полный текст Библии не вложен. Для офлайн-чтения добавьте редакцию, которую разрешено распространять, в data/scripture/.</p></section>
+<section id="favoritesView" class="view hidden"><div class="page-title">Избранное</div><div id="favoritesList" class="library-list"></div></section>
+</main></div>
+<div id="modal" class="modal hidden" role="dialog" aria-modal="true"><div class="modal-card"><button id="closeModal" class="close">×</button><div id="modalBody"></div></div></div>
+<footer>☦ Православный календарь · 2027–2028 <span>Локальная версия</span></footer>
+<script type="module" src="app.js"></script>
+</body></html>
