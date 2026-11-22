@@ -1,0 +1,6880 @@
+{
+  "title": "Офлайн-календарная основа 2027–2028",
+  "coverage": "731 дат; фиксированные праздники и 51 справочная персона по имеющейся локальной базе; не является полным официальным месяцесловом",
+  "days": [
+    {
+      "date": "2027-01-01",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Илия Муромец, Печерский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-01-02",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Святой праведный Иоанн Кронштадтский",
+        "Священномученик Игнатий Богоносец"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-01-03",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-01-04",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-01-05",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-01-06",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-01-07",
+      "weekday": "четверг",
+      "fixedFeast": "Рождество Господа Бога и Спаса нашего Иисуса Христа",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-08",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-01-09",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-10",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-11",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-12",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-13",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-01-14",
+      "weekday": "четверг",
+      "fixedFeast": "Обрезание Господне; святитель Василий Великий",
+      "saints": [
+        "Святитель Василий Великий"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-15",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Серафим Саровский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-01-16",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-17",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-18",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-19",
+      "weekday": "вторник",
+      "fixedFeast": "Святое Богоявление. Крещение Господне",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-20",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Пророк, Предтеча и Креститель Господень Иоанн"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-01-21",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-22",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-01-23",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-24",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-25",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Святая мученица Татиана Римская"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-26",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-27",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Святая равноапостольная Нина"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-01-28",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-29",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-01-30",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Антоний Великий"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-01-31",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-01",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-02",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-03",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-02-04",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-05",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-02-06",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Святая блаженная Ксения Петербургская"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-07",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Григорий Богослов"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-08",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-09",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Иоанн Златоуст"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-10",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-02-11",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-12",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Василий Великий",
+        "Святитель Григорий Богослов"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-02-13",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-14",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-15",
+      "weekday": "понедельник",
+      "fixedFeast": "Сретение Господне",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-16",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [
+        "Святой праведный Симеон Богоприимец",
+        "Святая пророчица Анна"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-17",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-02-18",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-19",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-02-20",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-21",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-22",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-23",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-24",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-02-25",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-26",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-02-27",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-02-28",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-03-01",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-03-02",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-03-03",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-03-04",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-03-05",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-03-06",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-03-07",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Неделя о мытаре и фарисее",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-03-08",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Блаженная Матрона Московская"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-03-09",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-03-10",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-03-11",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-03-12",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-03-13",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-03-14",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Неделя о блудном сыне",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-03-15",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Начало Великого поста",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-03-16",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-03-17",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-03-18",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Лука, архиепископ Симферопольский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-03-19",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-03-20",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-03-21",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Неделя о Страшном Суде (мясопустная)",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-03-22",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-03-23",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-03-24",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-03-25",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-03-26",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-03-27",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-03-28",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Прощёное воскресенье",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-03-29",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-03-30",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-03-31",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-01",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-02",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-03",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Серафим Вырицкий"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-04",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-05",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-06",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-07",
+      "weekday": "среда",
+      "fixedFeast": "Благовещение Пресвятой Богородицы",
+      "saints": [
+        "Святитель Тихон, патриарх Московский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-08",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [
+        "Архангел Гавриил"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-09",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-10",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-11",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-12",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Иоанн Лествичник"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-13",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-14",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобная Мария Египетская"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-15",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-16",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-17",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-18",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-19",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-20",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-21",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-22",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-23",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-24",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Лазарева суббота",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-25",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Вход Господень в Иерусалим",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-26",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-27",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-28",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-29",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Нектарий Оптинский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-04-30",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-05-01",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2027-05-02",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Блаженная Матрона Московская"
+      ],
+      "movableEvent": "Пасха — Светлое Христово Воскресение",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-03",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-04",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-05",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Мученица Ирина"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-05-06",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [
+        "Великомученик Георгий Победоносец"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-07",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-05-08",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Апостол и евангелист Марк"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-09",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Антипасха. Неделя апостола Фомы",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-10",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-11",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-12",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-05-13",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-14",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-05-15",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-16",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-17",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-18",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-19",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-05-20",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-21",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [
+        "Апостол и евангелист Иоанн Богослов"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-05-22",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Николай, архиепископ Мир Ликийских, чудотворец"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-23",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-24",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-25",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-26",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-05-27",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-28",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-05-29",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-30",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-05-31",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-01",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-02",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-06-03",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-04",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-06-05",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-06",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-07",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-08",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-09",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Святой праведный Иоанн Русский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-06-10",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Вознесение Господне",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-11",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Лука, архиепископ Симферопольский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-06-12",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Исаакий Далматский"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-13",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-14",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Святой праведный Иоанн Кронштадтский",
+        "Преподобный Агапит Печерский, врач безмездный"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-15",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-16",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-06-17",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-18",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-06-19",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-20",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Пятидесятница. День Святой Троицы",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-21",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "День Святого Духа",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-22",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-23",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-06-24",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-25",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-06-26",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-27",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-06-28",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2027-06-29",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2027-06-30",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2027-07-01",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2027-07-02",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2027-07-03",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2027-07-04",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2027-07-05",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2027-07-06",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2027-07-07",
+      "weekday": "среда",
+      "fixedFeast": "Рождество Иоанна Предтечи",
+      "saints": [
+        "Пророк, Предтеча и Креститель Господень Иоанн"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2027-07-08",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [
+        "Благоверные князь Пётр и княгиня Феврония"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2027-07-09",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2027-07-10",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2027-07-11",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2027-07-12",
+      "weekday": "понедельник",
+      "fixedFeast": "Первоверховных апостолов Петра и Павла",
+      "saints": [
+        "Святые первоверховные апостолы Пётр и Павел",
+        "Преподобный Паисий Святогорец"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-07-13",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-07-14",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-07-15",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-07-16",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-07-17",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-07-18",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Сергий, игумен Радонежский"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-07-19",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-07-20",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-07-21",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-07-22",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-07-23",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-07-24",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Равноапостольная княгиня Ольга"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-07-25",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-07-26",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Архангел Гавриил"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-07-27",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-07-28",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Равноапостольный князь Владимир"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-07-29",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-07-30",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-07-31",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-08-01",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Серафим Саровский"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-08-02",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-08-03",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-08-04",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-08-05",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-08-06",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-08-07",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Святая праведная Анна, мать Пресвятой Богородицы"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-08-08",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-08-09",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Великомученик и целитель Пантелеимон"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-08-10",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-08-11",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-08-12",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-08-13",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-08-14",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2027-08-15",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2027-08-16",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2027-08-17",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2027-08-18",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2027-08-19",
+      "weekday": "четверг",
+      "fixedFeast": "Преображение Господне",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2027-08-20",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2027-08-21",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2027-08-22",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2027-08-23",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2027-08-24",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2027-08-25",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2027-08-26",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2027-08-27",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2027-08-28",
+      "weekday": "суббота",
+      "fixedFeast": "Успение Пресвятой Богородицы",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-08-29",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-08-30",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-08-31",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-01",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-09-02",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-03",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-09-04",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-05",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-06",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-07",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-08",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-09-09",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-10",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Моисей Мурин"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-09-11",
+      "weekday": "суббота",
+      "fixedFeast": "Усекновение главы Иоанна Предтечи",
+      "saints": [
+        "Пророк, Предтеча и Креститель Господень Иоанн"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-12",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-13",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-14",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-15",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-09-16",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-17",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-09-18",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-19",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-20",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-21",
+      "weekday": "вторник",
+      "fixedFeast": "Рождество Пресвятой Богородицы",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-22",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Святая праведная Анна, мать Пресвятой Богородицы",
+        "Святые праведные Иоаким и Анна"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-09-23",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-24",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Силуан Афонский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-09-25",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-26",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-27",
+      "weekday": "понедельник",
+      "fixedFeast": "Воздвижение Честного и Животворящего Креста Господня",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-28",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-09-29",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-09-30",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-01",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-10-02",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-03",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-04",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-05",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-06",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-10-07",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-08",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Сергий, игумен Радонежский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-10-09",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Тихон, патриарх Московский",
+        "Апостол и евангелист Иоанн Богослов"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-10",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-11",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-12",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-13",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-10-14",
+      "weekday": "четверг",
+      "fixedFeast": "Покров Пресвятой Богородицы",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-15",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-10-16",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-17",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-18",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-19",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-20",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-10-21",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-22",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-10-23",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Амвросий Оптинский"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-24",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Лев Оптинский"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-25",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-26",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-27",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-10-28",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-29",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-10-30",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-10-31",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Апостол и евангелист Лука"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-01",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-02",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-03",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-11-04",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-05",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-11-06",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-07",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-08",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Святой великомученик Димитрий Солунский"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-09",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-10",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-11-11",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-12",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-11-13",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-14",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-15",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-16",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [
+        "Великомученик Георгий Победоносец"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-17",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-11-18",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-19",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-11-20",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-21",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Архангел Михаил"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-22",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-23",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-24",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-11-25",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-26",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Иоанн Златоуст"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2027-11-27",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2027-11-28",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-11-29",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Апостол и евангелист Матфей"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-11-30",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-01",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-02",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-03",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-04",
+      "weekday": "суббота",
+      "fixedFeast": "Введение во храм Пресвятой Богородицы",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-05",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-06",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-07",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [
+        "Великомученица Екатерина Александрийская"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-08",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-09",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-10",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-11",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-12",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-13",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Святой апостол Андрей Первозванный"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-14",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-15",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-16",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-17",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [
+        "Великомученица Варвара Илиопольская"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-18",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-19",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Николай, архиепископ Мир Ликийских, чудотворец"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-20",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-21",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-22",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-23",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-24",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-25",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Спиридон Тримифунтский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-26",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-27",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-28",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-29",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-30",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2027-12-31",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-01-01",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Илия Муромец, Печерский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-01-02",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Святой праведный Иоанн Кронштадтский",
+        "Священномученик Игнатий Богоносец"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-01-03",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-01-04",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-01-05",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-01-06",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-01-07",
+      "weekday": "пятница",
+      "fixedFeast": "Рождество Господа Бога и Спаса нашего Иисуса Христа",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-01-08",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-09",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-10",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-11",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-12",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-01-13",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-14",
+      "weekday": "пятница",
+      "fixedFeast": "Обрезание Господне; святитель Василий Великий",
+      "saints": [
+        "Святитель Василий Великий"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-01-15",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Серафим Саровский"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-16",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-17",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-18",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-19",
+      "weekday": "среда",
+      "fixedFeast": "Святое Богоявление. Крещение Господне",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-01-20",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [
+        "Пророк, Предтеча и Креститель Господень Иоанн"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-21",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-01-22",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-23",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-24",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-25",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [
+        "Святая мученица Татиана Римская"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-26",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-01-27",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [
+        "Святая равноапостольная Нина"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-28",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-01-29",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-30",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Антоний Великий"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-01-31",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-01",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-02",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-02-03",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-04",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-02-05",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-06",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Святая блаженная Ксения Петербургская"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-07",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Григорий Богослов"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-08",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-09",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Иоанн Златоуст"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-02-10",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-11",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-02-12",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Василий Великий",
+        "Святитель Григорий Богослов"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-13",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-14",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-15",
+      "weekday": "вторник",
+      "fixedFeast": "Сретение Господне",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-16",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Святой праведный Симеон Богоприимец",
+        "Святая пророчица Анна"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-02-17",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-18",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-02-19",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-20",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Неделя о мытаре и фарисее",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-21",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-22",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-23",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-02-24",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-25",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-02-26",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-27",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Неделя о блудном сыне",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-02-28",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Начало Великого поста",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-02-29",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-01",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-02",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-03",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-04",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-05",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Неделя о Страшном Суде (мясопустная)",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-06",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-07",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-08",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Блаженная Матрона Московская"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-09",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-10",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-11",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-12",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Прощёное воскресенье",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-13",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-14",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-15",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-16",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-17",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-18",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Лука, архиепископ Симферопольский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-19",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-20",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-21",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-22",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-23",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-24",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-25",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-26",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-27",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-28",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-29",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-30",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-03-31",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-04-01",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-04-02",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-04-03",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Серафим Вырицкий"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-04-04",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-04-05",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-04-06",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-04-07",
+      "weekday": "пятница",
+      "fixedFeast": "Благовещение Пресвятой Богородицы",
+      "saints": [
+        "Святитель Тихон, патриарх Московский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-04-08",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Архангел Гавриил"
+      ],
+      "movableEvent": "Лазарева суббота",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-04-09",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Вход Господень в Иерусалим",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-04-10",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-04-11",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-04-12",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Иоанн Лествичник"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-04-13",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-04-14",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобная Мария Египетская"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-04-15",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Великий пост / Страстная седмица"
+      ]
+    },
+    {
+      "date": "2028-04-16",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Пасха — Светлое Христово Воскресение",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-04-17",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-04-18",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-04-19",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-04-20",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-04-21",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-04-22",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-04-23",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Антипасха. Неделя апостола Фомы",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-04-24",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-04-25",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-04-26",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-04-27",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-04-28",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-04-29",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Нектарий Оптинский"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-04-30",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-01",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-02",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [
+        "Блаженная Матрона Московская"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-03",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-05-04",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-05",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [
+        "Мученица Ирина"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-05-06",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Великомученик Георгий Победоносец"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-07",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-08",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Апостол и евангелист Марк"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-09",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-10",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-05-11",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-12",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-05-13",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-14",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-15",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-16",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-17",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-05-18",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-19",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-05-20",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-21",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Апостол и евангелист Иоанн Богослов"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-22",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Николай, архиепископ Мир Ликийских, чудотворец"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-23",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-24",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-05-25",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Вознесение Господне",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-26",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-05-27",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-28",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-29",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-30",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-05-31",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-06-01",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-06-02",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-06-03",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-06-04",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "Пятидесятница. День Святой Троицы",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-06-05",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "День Святого Духа",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-06-06",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-06-07",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-06-08",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-06-09",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [
+        "Святой праведный Иоанн Русский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-06-10",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-06-11",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Лука, архиепископ Симферопольский"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-06-12",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Исаакий Далматский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-13",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-14",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Святой праведный Иоанн Кронштадтский",
+        "Преподобный Агапит Печерский, врач безмездный"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-15",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-16",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-17",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-18",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-19",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-20",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-21",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-22",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-23",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-24",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-25",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-26",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-27",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-28",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-29",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-06-30",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-07-01",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-07-02",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-07-03",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-07-04",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-07-05",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-07-06",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-07-07",
+      "weekday": "пятница",
+      "fixedFeast": "Рождество Иоанна Предтечи",
+      "saints": [
+        "Пророк, Предтеча и Креститель Господень Иоанн"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-07-08",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [
+        "Благоверные князь Пётр и княгиня Феврония"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-07-09",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-07-10",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-07-11",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Апостольский (Петров) пост"
+      ]
+    },
+    {
+      "date": "2028-07-12",
+      "weekday": "среда",
+      "fixedFeast": "Первоверховных апостолов Петра и Павла",
+      "saints": [
+        "Святые первоверховные апостолы Пётр и Павел",
+        "Преподобный Паисий Святогорец"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-07-13",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-07-14",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-07-15",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-07-16",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-07-17",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-07-18",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Сергий, игумен Радонежский"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-07-19",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-07-20",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-07-21",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-07-22",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-07-23",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-07-24",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Равноапостольная княгиня Ольга"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-07-25",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-07-26",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Архангел Гавриил"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-07-27",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-07-28",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [
+        "Равноапостольный князь Владимир"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-07-29",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-07-30",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-07-31",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-08-01",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Серафим Саровский"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-08-02",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-08-03",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-08-04",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-08-05",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-08-06",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-08-07",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Святая праведная Анна, мать Пресвятой Богородицы"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-08-08",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-08-09",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Великомученик и целитель Пантелеимон"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-08-10",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-08-11",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-08-12",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-08-13",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-08-14",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2028-08-15",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2028-08-16",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2028-08-17",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2028-08-18",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2028-08-19",
+      "weekday": "суббота",
+      "fixedFeast": "Преображение Господне",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2028-08-20",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2028-08-21",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2028-08-22",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2028-08-23",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2028-08-24",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2028-08-25",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2028-08-26",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2028-08-27",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Успенский пост"
+      ]
+    },
+    {
+      "date": "2028-08-28",
+      "weekday": "понедельник",
+      "fixedFeast": "Успение Пресвятой Богородицы",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-08-29",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-08-30",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-08-31",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-01",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-09-02",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-03",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-04",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-05",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-06",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-09-07",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-08",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-09-09",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-10",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Моисей Мурин"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-11",
+      "weekday": "понедельник",
+      "fixedFeast": "Усекновение главы Иоанна Предтечи",
+      "saints": [
+        "Пророк, Предтеча и Креститель Господень Иоанн"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-12",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-13",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-09-14",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-15",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-09-16",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-17",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-18",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-19",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-20",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-09-21",
+      "weekday": "четверг",
+      "fixedFeast": "Рождество Пресвятой Богородицы",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-22",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [
+        "Святая праведная Анна, мать Пресвятой Богородицы",
+        "Святые праведные Иоаким и Анна"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-09-23",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-24",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Силуан Афонский"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-25",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-26",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-27",
+      "weekday": "среда",
+      "fixedFeast": "Воздвижение Честного и Животворящего Креста Господня",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-09-28",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-09-29",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-09-30",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-01",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-02",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-03",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-04",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-10-05",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-06",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-10-07",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-08",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Сергий, игумен Радонежский"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-09",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Тихон, патриарх Московский",
+        "Апостол и евангелист Иоанн Богослов"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-10",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-11",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-10-12",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-13",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-10-14",
+      "weekday": "суббота",
+      "fixedFeast": "Покров Пресвятой Богородицы",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-15",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-16",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-17",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-18",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-10-19",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-20",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-10-21",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-22",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-23",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Амвросий Оптинский"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-24",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [
+        "Преподобный Лев Оптинский"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-25",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-10-26",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-27",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-10-28",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-29",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-30",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-10-31",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [
+        "Апостол и евангелист Лука"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-01",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-11-02",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-03",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-11-04",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-05",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-06",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-07",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-08",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Святой великомученик Димитрий Солунский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-11-09",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-10",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-11-11",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-12",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-13",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-14",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-15",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-11-16",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [
+        "Великомученик Георгий Победоносец"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-17",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-11-18",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-19",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-20",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-21",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [
+        "Архангел Михаил"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-22",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-11-23",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-24",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Среда/пятница: пост по общему правилу; проверьте праздничные послабления"
+      ]
+    },
+    {
+      "date": "2028-11-25",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-26",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Иоанн Златоуст"
+      ],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-27",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": []
+    },
+    {
+      "date": "2028-11-28",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-11-29",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Апостол и евангелист Матфей"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-11-30",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-01",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-02",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-03",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-04",
+      "weekday": "понедельник",
+      "fixedFeast": "Введение во храм Пресвятой Богородицы",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-05",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-06",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-07",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [
+        "Великомученица Екатерина Александрийская"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-08",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-09",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-10",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-11",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-12",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-13",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [
+        "Святой апостол Андрей Первозванный"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-14",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-15",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-16",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-17",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [
+        "Великомученица Варвара Илиопольская"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-18",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-19",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Николай, архиепископ Мир Ликийских, чудотворец"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-20",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-21",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-22",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-23",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-24",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-25",
+      "weekday": "понедельник",
+      "fixedFeast": "",
+      "saints": [
+        "Святитель Спиридон Тримифунтский"
+      ],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-26",
+      "weekday": "вторник",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-27",
+      "weekday": "среда",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-28",
+      "weekday": "четверг",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-29",
+      "weekday": "пятница",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-30",
+      "weekday": "суббота",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    },
+    {
+      "date": "2028-12-31",
+      "weekday": "воскресенье",
+      "fixedFeast": "",
+      "saints": [],
+      "movableEvent": "",
+      "fastNotes": [
+        "Рождественский пост"
+      ]
+    }
+  ]
+}
